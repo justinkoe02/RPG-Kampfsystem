@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RPG_Kampfsystem_git/1.0.0": {
+        "runtime": {
+          "RPG_Kampfsystem_git.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPG_Kampfsystem_git/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

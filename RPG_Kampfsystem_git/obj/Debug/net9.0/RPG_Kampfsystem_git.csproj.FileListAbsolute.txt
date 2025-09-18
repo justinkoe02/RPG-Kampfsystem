@@ -1,0 +1,14 @@
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/bin/Debug/net9.0/RPG_Kampfsystem_git
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/bin/Debug/net9.0/RPG_Kampfsystem_git.deps.json
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/bin/Debug/net9.0/RPG_Kampfsystem_git.runtimeconfig.json
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/bin/Debug/net9.0/RPG_Kampfsystem_git.dll
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/bin/Debug/net9.0/RPG_Kampfsystem_git.pdb
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/RPG_Kampfsystem_git.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/RPG_Kampfsystem_git.AssemblyInfoInputs.cache
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/RPG_Kampfsystem_git.AssemblyInfo.cs
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/RPG_Kampfsystem_git.csproj.CoreCompileInputs.cache
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/RPG_Kampfsystem_git.dll
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/refint/RPG_Kampfsystem_git.dll
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/RPG_Kampfsystem_git.pdb
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/RPG_Kampfsystem_git.genruntimeconfig.cache
+/Users/justin/Documents/VS_UEbungen/UEbungen 09-2025/RPG_Kampsystem_git/RPG_Kampfsystem_git/obj/Debug/net9.0/ref/RPG_Kampfsystem_git.dll
